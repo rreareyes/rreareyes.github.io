@@ -1,5 +1,15 @@
 ---
-title: "rreareyes.github.io"
+title: Ramiro Reyes
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
 This is a Quarto website.
