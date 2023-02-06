@@ -1,0 +1,8 @@
+---
+title: "Projects"
+editor: visual
+---
+
+What strategies do people use when the environment is uncertain?
+
+![Most frequent models used in the task](figures/A_model_selection.png)
